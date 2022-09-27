@@ -1,0 +1,27 @@
+h1{
+    background:cyan;
+    color: black;
+}
+body{
+    border:0px;
+    margin:0px;
+    padding: 0px;
+}
+
+form input{
+    background: 
+    margin border-bottom: 10px;
+    padding: 5px 5px 10px 20px;
+    border: radius 10px;
+    font_size: 30px;
+
+}
+center form{
+    background-color: cyan;
+    color:
+    margin:0px 200px;
+    padding:20px 20px 2px 20px;
+    border_radius:20px;
+    font_family:elephant;  
+    font_size:20px;
+}   
